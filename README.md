@@ -1,5 +1,3 @@
-
-
 [![MasterHead](https://i.ibb.co/qpz8m2B/backg-1.png)](https://github.com/AlexMBFlow)
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript)
