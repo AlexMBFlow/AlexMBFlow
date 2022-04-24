@@ -1,5 +1,5 @@
 [![MasterHead](https://i.ibb.co/qpz8m2B/backg-1.png)](https://github.com/AlexMBFlow)
-### My telegram 
+### My telegram:
 <a href='https://t.me/Hitotsu'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
 
