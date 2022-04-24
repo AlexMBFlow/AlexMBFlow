@@ -1,12 +1,6 @@
 [![MasterHead](https://i.ibb.co/qpz8m2B/backg-1.png)](https://github.com/AlexMBFlow)
+### My telegram <a href='https://t.me/Hitotsu'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 
-<div style="display: flex; align-items: center; justify-content: center">
-  <div>My telegram
-  </div>
-    <div>
-      <a href='https://t.me/Hitotsu'>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-    </div>
-</div>
 
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript)
