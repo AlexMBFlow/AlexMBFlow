@@ -9,6 +9,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=Redux)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=Next.js)
 ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=sass)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -16,7 +17,6 @@
 
 ### Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=Next.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
