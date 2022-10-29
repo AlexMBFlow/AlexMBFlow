@@ -6,15 +6,15 @@
 ### Frontend:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=Redux)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=Next.js)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=sass)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=for-the-badge&logo=sass)
 
 
 ### Backend:
